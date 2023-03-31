@@ -1,0 +1,27 @@
+<h2 class="video_title">Video Module</h2>
+<p>
+    Video Component
+</p>
+
+<!-- adding attributes of video component -->
+<section class="videoplayer">
+    <video controls poster="/images/poster1.png">
+        <source src="/asset/videomodule/1min_video.mp4" type="video/mp4">
+        <track default kind="captions" src="/asset/videomodule/subtitle/video1_subtitle.vtt" srclang="en" label="English">
+        <!-- if a browser does not support the video then user can click on the link to play the video -->
+        <p>
+            Your Browser Doesn't support the video
+        </p>
+        <a href="/asset/videomodule/1min_video.mp4">Play Video</a>
+    </video>
+
+    <!-- adding buttons to the video -->
+        <button class="btn btn-primary btn-lg" data-button="0" aria-label="Play/Pause" id="play">Play</button>
+        <button class="btn btn-primary btn-lg" data-button="0" aria-label="Play/Pause" id="pause">Pause</button>
+        <button class="btn btn-primary btn-lg" data-button="0" aria-label="Mute" id="mute">Mute</button>
+        <button class="btn btn-primary btn-lg" data-button="0" aria-label="Unmute" id="unmute">Unmute</button>
+        <button class="btn btn-primary btn-lg" data-button="0" aria-label="Fullscreen" id="fullscreen">Fullscreen</button>
+        <button class="btn btn-primary btn-lg" data-button="0" aria-label="exit Full Screen" id="exitfullscreen">Exit Fullscreen</button>
+        <button class="btn btn-primary btn-lg" data-button="0" aria-label="Close Caption" id="caption">Caption</button>
+        
+</section>
