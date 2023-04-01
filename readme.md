@@ -1,5 +1,3 @@
-write a readme for this accessblity project
-
 # AUDIO VIDEO RESEARCH APP - README
 
 ## Description
