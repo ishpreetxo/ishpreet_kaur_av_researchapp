@@ -1,0 +1,51 @@
+.main__buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform : uppercase;
+     
+
+
+
+}
+
+.btn{
+    color: #674188 !important;
+    border-color: #674188 !important;
+    font-size: 1em;
+    width: 200px;
+    padding: 20px;
+    font-weight: 600;
+    margin: 15px;
+    border: 2px solid #FFFBF5 !important;
+    background-color: #FFFBF5 !important;
+    color: #674188 !important;
+    &:hover {
+        background-color: #674188 !important;
+        color: #FFFBF5 !important;
+        border: 2px solid #FFFBF5 !important;
+
+    }
+
+}
+
+#button_main {
+    background-color: #674188 !important;
+    border-color: #674188 !important;
+    color: #FFFBF5 !important;
+    font-size: 1em;
+    font-weight: 600;
+    margin-top: 10px;
+    padding: 20px;
+    text-transform: uppercase;
+    border : 2px solid #FFFBF5 !important;
+    cursor: pointer;
+    &:hover {
+        background-color: #FFFBF5 !important;
+        color: #674188 !important;
+        border: 2px solid #674188 !important;
+        transition: .35s ease-in-out;
+        border : 2px solid  #674188  !important;
+    }
+}
+

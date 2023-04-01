@@ -1,0 +1,446 @@
+WEBVTT
+
+1
+00:00:04.160 --> 00:00:05.920
+we use the internet to pay bills
+
+2
+00:00:05.920 --> 00:00:07.839
+get the latest news communicate with
+
+3
+00:00:07.839 --> 00:00:09.760
+friends and family and shop for products
+
+4
+00:00:09.760 --> 00:00:10.880
+and groceries
+
+5
+00:00:10.880 --> 00:00:12.799
+we can run our entire lives from the
+
+6
+00:00:12.799 --> 00:00:14.080
+internet
+
+7
+00:00:14.080 --> 00:00:15.839
+in the same way that an organization
+
+8
+00:00:15.839 --> 00:00:17.600
+where a business's physical location
+
+9
+00:00:17.600 --> 00:00:19.119
+should be accessible for people with
+
+10
+00:00:19.119 --> 00:00:20.080
+disabilities
+
+11
+00:00:20.080 --> 00:00:22.720
+their website should be as well despite
+
+12
+00:00:22.720 --> 00:00:24.560
+the fact that one billion people on
+
+13
+00:00:24.560 --> 00:00:26.480
+earth suffer from permanent disabilities
+
+14
+00:00:26.480 --> 00:00:27.439
+of different kinds
+
+15
+00:00:27.439 --> 00:00:29.279
+and even more experienced temporary
+
+16
+00:00:29.279 --> 00:00:31.119
+difficulties only two percent of
+
+17
+00:00:31.119 --> 00:00:32.960
+websites on the internet are accessible
+
+18
+00:00:32.960 --> 00:00:33.920
+to them
+
+19
+00:00:33.920 --> 00:00:35.840
+that is why it is so important to design
+
+20
+00:00:35.840 --> 00:00:37.200
+an accessible website
+
+21
+00:00:37.200 --> 00:00:39.200
+using web content accessibility
+
+22
+00:00:39.200 --> 00:00:41.840
+guidelines wcag are the documents
+
+23
+00:00:41.840 --> 00:00:43.920
+explaining how to make web content more
+
+24
+00:00:43.920 --> 00:00:44.719
+accessible
+
+25
+00:00:44.719 --> 00:00:46.719
+primarily for people with disabilities
+
+26
+00:00:46.719 --> 00:00:48.879
+but also for user access methods
+
+27
+00:00:48.879 --> 00:00:51.039
+including limited devices such as mobile
+
+28
+00:00:51.039 --> 00:00:52.000
+phones
+
+29
+00:00:52.000 --> 00:00:53.600
+these guidelines were developed by the
+
+30
+00:00:53.600 --> 00:00:55.199
+world wide web consortium
+
+31
+00:00:55.199 --> 00:00:56.879
+the main international standards
+
+32
+00:00:56.879 --> 00:00:58.800
+organization for the internet within the
+
+33
+00:00:58.800 --> 00:01:01.039
+past 20 years to provide a single shared
+
+34
+00:01:01.039 --> 00:01:02.480
+standard that meets the needs of
+
+35
+00:01:02.480 --> 00:01:03.280
+individuals
+
+36
+00:01:03.280 --> 00:01:04.879
+organizations and governments
+
+37
+00:01:04.879 --> 00:01:07.600
+internationally but why should you care
+
+38
+00:01:07.600 --> 00:01:09.760
+first it opens you up to an even bigger
+
+39
+00:01:09.760 --> 00:01:12.000
+audience accessibility is not just
+
+40
+00:01:12.000 --> 00:01:14.080
+for people with auditory cognitive
+
+41
+00:01:14.080 --> 00:01:15.040
+neurological
+
+42
+00:01:15.040 --> 00:01:17.600
+physical or visual disabilities any
+
+43
+00:01:17.600 --> 00:01:20.000
+temporary disability like a broken hand
+
+44
+00:01:20.000 --> 00:01:20.880
+or other injury
+
+45
+00:01:20.880 --> 00:01:22.640
+or age related problems can make it
+
+46
+00:01:22.640 --> 00:01:24.640
+difficult or impossible to navigate your
+
+47
+00:01:24.640 --> 00:01:25.680
+website
+
+48
+00:01:25.680 --> 00:01:27.600
+even a person on the subway who wants to
+
+49
+00:01:27.600 --> 00:01:29.360
+watch your ad but left their headphones
+
+50
+00:01:29.360 --> 00:01:29.920
+at home
+
+51
+00:01:29.920 --> 00:01:31.360
+or people with a poor internet
+
+52
+00:01:31.360 --> 00:01:33.360
+connection are included that's an
+
+53
+00:01:33.360 --> 00:01:34.880
+awful lot of people who might have
+
+54
+00:01:34.880 --> 00:01:36.960
+difficulty interacting with your website
+
+55
+00:01:36.960 --> 00:01:39.360
+or buying your products and services
+
+56
+00:01:39.360 --> 00:01:42.479
+6.9 billion dollars annually is lost by
+
+57
+00:01:42.479 --> 00:01:44.799
+non-accessible e-commerce retailers to
+
+58
+00:01:44.799 --> 00:01:46.799
+their accessible competitors
+
+59
+00:01:46.799 --> 00:01:48.880
+also complying with web standards
+
+60
+00:01:48.880 --> 00:01:50.479
+enhances performance
+
+61
+00:01:50.479 --> 00:01:52.240
+sites that are standards compliant will
+
+62
+00:01:52.240 --> 00:01:54.399
+run faster work is expected on the
+
+63
+00:01:54.399 --> 00:01:56.399
+largest number of devices and operating
+
+64
+00:01:56.399 --> 00:01:57.040
+systems
+
+65
+00:01:57.040 --> 00:01:59.600
+and be less likely to crash what is most
+
+66
+00:01:59.600 --> 00:02:00.320
+important
+
+67
+00:02:00.320 --> 00:02:01.759
+they'll get better search engine
+
+68
+00:02:01.759 --> 00:02:03.360
+rankings finally
+
+69
+00:02:03.360 --> 00:02:05.119
+it's just the right thing to do
+
+70
+00:02:05.119 --> 00:02:07.119
+responsibility and initiative are the
+
+71
+00:02:07.119 --> 00:02:10.318
+keys to healthy relationships in society
+
+72
+00:02:10.318 --> 00:02:12.080
+another important reason for compliance
+
+73
+00:02:12.080 --> 00:02:13.520
+is the legal aspect
+
+74
+00:02:13.520 --> 00:02:14.959
+the number of lawsuits based on
+
+75
+00:02:14.959 --> 00:02:17.200
+accessibility discrimination is rising
+
+76
+00:02:17.200 --> 00:02:18.080
+each year
+
+77
+00:02:18.080 --> 00:02:21.080
+for example in just the u.s there were 2
+
+78
+00:02:21.080 --> 00:02:23.840
+285 lawsuits in 2018
+
+79
+00:02:23.840 --> 00:02:26.879
+compared with 814 in 2017
+
+80
+00:02:26.879 --> 00:02:29.760
+nike amazon dominoes and even beyonce
+
+81
+00:02:29.760 --> 00:02:31.360
+were sued for their websites being
+
+82
+00:02:31.360 --> 00:02:33.519
+inaccessible
+
+83
+00:02:33.519 --> 00:02:35.360
+at the moment there are different pieces
+
+84
+00:02:35.360 --> 00:02:37.200
+of legislation in different countries
+
+85
+00:02:37.200 --> 00:02:38.959
+that are aiming to make the internet
+
+86
+00:02:38.959 --> 00:02:40.879
+more accessible to everyone
+
+87
+00:02:40.879 --> 00:02:43.680
+for example in 2005 the government of
+
+88
+00:02:43.680 --> 00:02:44.800
+ontario canada
+
+89
+00:02:44.800 --> 00:02:46.640
+established the accessibilities for
+
+90
+00:02:46.640 --> 00:02:48.959
+ontarians with disabilities act
+
+91
+00:02:48.959 --> 00:02:51.120
+according to this all public sector
+
+92
+00:02:51.120 --> 00:02:52.959
+organizations including government
+
+93
+00:02:52.959 --> 00:02:54.239
+municipalities
+
+94
+00:02:54.239 --> 00:02:56.879
+educational institutions and all private
+
+95
+00:02:56.879 --> 00:02:59.280
+organizations with 50 or more employees
+
+96
+00:02:59.280 --> 00:03:01.120
+businesses non-profits and private
+
+97
+00:03:01.120 --> 00:03:02.879
+educational institutions
+
+98
+00:03:02.879 --> 00:03:05.120
+are required to be accessible by january
+
+99
+00:03:05.120 --> 00:03:07.599
+1st 2021
+
+100
+00:03:07.599 --> 00:03:09.120
+similar laws have been adopted in
+
+101
+00:03:09.120 --> 00:03:11.120
+australia china india
+
+102
+00:03:11.120 --> 00:03:13.680
+israel japan sweden the united kingdom
+
+103
+00:03:13.680 --> 00:03:14.720
+the united states
+
+104
+00:03:14.720 --> 00:03:17.760
+the european union and other countries
+
+105
+00:03:17.760 --> 00:03:19.680
+today's trends show that compliance with
+
+106
+00:03:19.680 --> 00:03:21.840
+web content accessibility guidelines
+
+107
+00:03:21.840 --> 00:03:23.519
+will become mandatory in most of the
+
+108
+00:03:23.519 --> 00:03:23.920
+world
+
+109
+00:03:23.920 --> 00:03:26.239
+in the very near future what about your
+
+110
+00:03:26.239 --> 00:03:27.040
+website
+
+111
+00:03:27.040 --> 00:03:32.560
+is it already accessible
+

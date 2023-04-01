@@ -1,0 +1,222 @@
+we use the internet to pay bills
+
+get the latest news communicate with
+
+friends and family and shop for products
+
+and groceries
+
+we can run our entire lives from the
+
+internet
+
+in the same way that an organization
+
+where a business's physical location
+
+should be accessible for people with
+
+disabilities
+
+their website should be as well despite
+
+the fact that one billion people on
+
+earth suffer from permanent disabilities
+
+of different kinds
+
+and even more experienced temporary
+
+difficulties only two percent of
+
+websites on the internet are accessible
+
+to them
+
+that is why it is so important to design
+
+an accessible website
+
+using web content accessibility
+
+guidelines wcag are the documents
+
+explaining how to make web content more
+
+accessible
+
+primarily for people with disabilities
+
+but also for user access methods
+
+including limited devices such as mobile
+
+phones
+
+these guidelines were developed by the
+
+world wide web consortium
+
+the main international standards
+
+organization for the internet within the
+
+past 20 years to provide a single shared
+
+standard that meets the needs of
+
+individuals
+
+organizations and governments
+
+internationally but why should you care
+
+first it opens you up to an even bigger
+
+audience accessibility is not just
+
+for people with auditory cognitive
+
+neurological
+
+physical or visual disabilities any
+
+temporary disability like a broken hand
+
+or other injury
+
+or age related problems can make it
+
+difficult or impossible to navigate your
+
+website
+
+even a person on the subway who wants to
+
+watch your ad but left their headphones
+
+at home
+
+or people with a poor internet
+
+connection are included that's an
+
+awful lot of people who might have
+
+difficulty interacting with your website
+
+or buying your products and services
+
+6.9 billion dollars annually is lost by
+
+non-accessible e-commerce retailers to
+
+their accessible competitors
+
+also complying with web standards
+
+enhances performance
+
+sites that are standards compliant will
+
+run faster work is expected on the
+
+largest number of devices and operating
+
+systems
+
+and be less likely to crash what is most
+
+important
+
+they'll get better search engine
+
+rankings finally
+
+it's just the right thing to do
+
+responsibility and initiative are the
+
+keys to healthy relationships in society
+
+another important reason for compliance
+
+is the legal aspect
+
+the number of lawsuits based on
+
+accessibility discrimination is rising
+
+each year
+
+for example in just the u.s there were 2
+
+285 lawsuits in 2018
+
+compared with 814 in 2017
+
+nike amazon dominoes and even beyonce
+
+were sued for their websites being
+
+inaccessible
+
+at the moment there are different pieces
+
+of legislation in different countries
+
+that are aiming to make the internet
+
+more accessible to everyone
+
+for example in 2005 the government of
+
+ontario canada
+
+established the accessibilities for
+
+ontarians with disabilities act
+
+according to this all public sector
+
+organizations including government
+
+municipalities
+
+educational institutions and all private
+
+organizations with 50 or more employees
+
+businesses non-profits and private
+
+educational institutions
+
+are required to be accessible by january
+
+1st 2021
+
+similar laws have been adopted in
+
+australia china india
+
+israel japan sweden the united kingdom
+
+the united states
+
+the european union and other countries
+
+today's trends show that compliance with
+
+web content accessibility guidelines
+
+will become mandatory in most of the
+
+world
+
+in the very near future what about your
+
+website
+
+is it already accessible
+
