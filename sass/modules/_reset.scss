@@ -1,17 +1,18 @@
-.pos-f-t{
-    margin-bottom:20px;
-    
-}
 
 .navbar {
     height: 12vh;
     text-transform: uppercase;
+    margin-bottom: 20px;
 }
 
 .navbar-brand {
     font-size: 1.4em;
     color: #674188 !important;
     font-weight: 600;
+}
+
+.navbar-nav {
+    background-color: #FFFBF5;
 }
 
 .btn-outline-success {
@@ -41,4 +42,5 @@
 body {
     background-color: #674188 !important;
     font-family: 'Roboto', sans-serif;
+    
 }
