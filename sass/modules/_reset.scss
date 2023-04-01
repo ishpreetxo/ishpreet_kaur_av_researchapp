@@ -1,0 +1,44 @@
+.pos-f-t{
+    margin-bottom:20px;
+    
+}
+
+.navbar {
+    height: 12vh;
+    text-transform: uppercase;
+}
+
+.navbar-brand {
+    font-size: 1.4em;
+    color: #674188 !important;
+    font-weight: 600;
+}
+
+.btn-outline-success {
+    color: #674188 !important;
+    border-color: #674188 !important;
+    font-size: 1em;
+    font-weight: 400;
+    margin: 05px;
+
+        &:hover {
+            background-color: #674188 !important;
+            color: #FFFBF5 !important;
+        }
+}
+
+.nav-link {
+    color: #674188 !important;
+    font-size: 1em;
+    font-weight: 400;
+    margin: 05px;
+}
+
+.bg-dark{background-color: #FFFBF5 !important;
+        color: #674188 !important;
+}
+
+body {
+    background-color: #674188 !important;
+    font-family: 'Roboto', sans-serif;
+}

@@ -5,8 +5,8 @@
 
 <!-- adding attributes of video component -->
 <section class="videoplayer">
-    <video controls poster="/images/poster1.png">
-        <source src="/asset/videomodule/1min_video.mp4" type="video/mp4">
+    <video controls poster="/images/poster1.png" width="300px">
+        <source src="/asset/videomodule/1min_video.mp4" width="300px" type="video/mp4">
         <track default kind="captions" src="/asset/videomodule/subtitle/video1_subtitle.vtt" srclang="en" label="English">
         <!-- if a browser does not support the video then user can click on the link to play the video -->
         <p>
@@ -16,12 +16,14 @@
     </video>
 
     <!-- adding buttons to the video -->
-        <button class="btn btn-primary btn-lg" data-button="0" aria-label="Play/Pause" id="play">Play</button>
-        <button class="btn btn-primary btn-lg" data-button="0" aria-label="Play/Pause" id="pause">Pause</button>
-        <button class="btn btn-primary btn-lg" data-button="0" aria-label="Mute" id="mute">Mute</button>
-        <button class="btn btn-primary btn-lg" data-button="0" aria-label="Unmute" id="unmute">Unmute</button>
-        <button class="btn btn-primary btn-lg" data-button="0" aria-label="Fullscreen" id="fullscreen">Fullscreen</button>
-        <button class="btn btn-primary btn-lg" data-button="0" aria-label="exit Full Screen" id="exitfullscreen">Exit Fullscreen</button>
-        <button class="btn btn-primary btn-lg" data-button="0" aria-label="Close Caption" id="caption">Caption</button>
-        
+    <!-- for bootstrap class is given but for javascript we have to add the class name as "btn" -->
+    <!-- adding two class name to the button for example btn btn-primary where btn is for bootstrap and btn-primary is for javascript -->
+        <button class="btn_play btn-primary btn-lg" data-button="0" aria-label="Play/Pause" id="play">Play</button>
+        <button class="btn_pause btn-primary btn-lg" data-button="0" aria-label="Play/Pause" id="pause">Pause</button>
+        <button class="btn_mute btn-primary btn-lg" data-button="0" aria-label="Mute" id="mute">Mute</button>
+        <button class="btn_unmute btn-primary btn-lg" data-button="0" aria-label="Unmute" id="unmute">Unmute</button>
+        <button class="btn_fullscreen btn-primary btn-lg" data-button="0" aria-label="Fullscreen" id="fullscreen">Fullscreen</button>
+        <button class="btn_exitfs btn-primary btn-lg" data-button="0" aria-label="exit Full Screen" id="exitfullscreen">Exit Fullscreen</button>
+        <button class="btn_caption btn-primary btn-lg" data-button="0" aria-label="Close Caption" id="caption">Caption</button>
+
 </section>
