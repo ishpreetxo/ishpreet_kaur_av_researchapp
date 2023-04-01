@@ -9,12 +9,6 @@ const unmuteBtn = document.querySelector('.btn_unmute');
 const fullscreenBtn = document.querySelector('.btn_fullscreen');
 const exitFullscreenBtn = document.querySelector('.btn_exitfs');
 const captionBtn = document.querySelector('.btn_caption');
-// Get the audio element
-const audio = document.querySelector('audio');
-
-// Get the audio control buttons
-const playAudioBtn = document.querySelector('.btn_playaudio');
-const pauseAudioBtn = document.querySelector('.btn_pauseaudio');
 
 // Play button functionality
 playBtn.addEventListener('click', () => {
